@@ -16,3 +16,5 @@ def add_numbers(a: float, b: float) -> float:
 
 if __name__ == "__main__":
     djwaleMCP.run()
+
+# uv run fastmcp dev inspector main.py:djwaleMCP
